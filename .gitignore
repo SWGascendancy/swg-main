@@ -1,0 +1,8 @@
+.setup
+build*/
+data
+exe
+src
+dsrc
+chat/chat.db
+chat/logs/*
