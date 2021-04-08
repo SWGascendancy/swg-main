@@ -1,9 +1,0 @@
-.setup
-build*/
-data
-exe
-src
-dsrc
-chat/chat.db
-chat/logs/*
-chat/swgchat.log
